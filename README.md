@@ -1,6 +1,10 @@
 # iestonegenerator
 This will playback rawdata downloaded with IESTelemetry application using a ds7000 over the pc speaker. One can simulate an IES Telemetry session to test a deck unit or for training
 
+Here is the latest release
+
+- [Download lates release](https://github.com/pedrolpena/iestonegenerator/releases/latest)
+
 Disclaimer
 ==========
 This repository is a scientific product and is not official communication of the National Oceanic and
