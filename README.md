@@ -3,7 +3,7 @@ This will playback rawdata downloaded with IESTelemetry application using a ds70
 
 Here is the latest release
 
-- [Download lates release](https://github.com/pedrolpena/iestonegenerator/releases/latest)
+- [Download latest release](https://github.com/pedrolpena/iestonegenerator/releases/latest)
 
 Disclaimer
 ==========
